@@ -5,22 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e06186fd-b52a-42a5-a653-eac98a72508b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rock-The-Jvm-Scala-Beginner.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/PartOne/CBVandCBN.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/PartOne/DefaultArgs.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/PartOne/RecursionExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/PartOne/StringOps.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/PartTwo/MethodNotations.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/PartTwo/OOPBasics.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/ArticleOne/Person.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/ArticleOne/SingletonObject.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/PartOne/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/PartThree/WhatIsFunctions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/PartTwo/AbstractionDataType.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/PartTwo/AnonymousClass.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/PartTwo/CustomList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/PartTwo/Exceptions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/PartTwo/Inheritance.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/PartTwo/Objects.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/PartTwo/PackagingAndImports.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/PartTwo/MethodNotations$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/PartTwo/MethodNotations$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/PartTwo/MethodNotations$Movies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/PartTwo/MethodNotations$Movies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/PartTwo/MethodNotations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/PartTwo/MethodNotations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/PartTwo/MethodNotations.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/PartTwo/MethodNotations.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/PartTwo/MethodNotations.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectures/PartTwo/MethodNotations.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +31,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,26 +61,14 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;scala_project_settings_configurable.last_selected_tab_index&quot;: &quot;6&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MethodNotations">
-    <configuration name="CBVandCBN" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ChapterTwo.CBVandCBN" />
-      <module name="Rock-The-Jvm-Scala-Beginner" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ChapterTwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodNotations" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.PartTwo.MethodNotations" />
+  <component name="RunManager" selected="Application.ListTest">
+    <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.PartTwo.Exceptions" />
       <module name="Rock-The-Jvm-Scala-Beginner" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOPBasics" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.PartTwo.OOPBasics" />
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.PartTwo.ListTest" />
       <module name="Rock-The-Jvm-Scala-Beginner" />
       <extension name="coverage">
         <pattern>
@@ -96,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursionExample" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ChapterTwo.RecursionExample" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.ArticleOne.Test" />
       <module name="Rock-The-Jvm-Scala-Beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ChapterTwo.*" />
+          <option name="PATTERN" value="Lectures.ArticleOne.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +106,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringOps" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ChapterTwo.StringOps" />
+    <configuration name="TestInfo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.ArticleOne.TestInfo" />
       <module name="Rock-The-Jvm-Scala-Beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ChapterTwo.*" />
+          <option name="PATTERN" value="Lectures.ArticleOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhatIsFunctions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.PartThree.WhatIsFunctions" />
+      <module name="Rock-The-Jvm-Scala-Beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lectures.PartThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodNotations" />
-        <item itemvalue="Application.OOPBasics" />
-        <item itemvalue="Application.StringOps" />
-        <item itemvalue="Application.CBVandCBN" />
-        <item itemvalue="Application.RecursionExample" />
+        <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.WhatIsFunctions" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestInfo" />
+        <item itemvalue="Application.Exceptions" />
       </list>
     </recent_temporary>
   </component>
