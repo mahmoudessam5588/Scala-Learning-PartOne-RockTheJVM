@@ -5,22 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e06186fd-b52a-42a5-a653-eac98a72508b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PartFour/PatterMatchingPartOne.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PartFour/PatternMatchingPartTwo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/AdvancedCourseExercises/PartOne/PatternMatchingPartOneExercises.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/CurriedPartialAppliedFunctionExercises.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MySetExercise.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MyStreamDeprecatedExercise.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/PartialFunctionsExercises.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartOne/AdvancedPatternMatchingPartOne.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartOne/DarkSugar.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartOne/Recap.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartTwo/CurriedPartialAppliedFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartTwo/LazyEvaluation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartTwo/Monads.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartTwo/MySet.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartTwo/PartialFunctions.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/PartThree/WhatIsFunctions$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/PartThree/WhatIsFunctions$$anon$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/PartThree/WhatIsFunctions$$anon$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/PartThree/WhatIsFunctions$$anon$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/LeetCodeExercises/Problem1$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/LeetCodeExercises/Problem1$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/LeetCodeExercises/Problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/LeetCodeExercises/Problem1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/LeetCodeExercises/Problem1.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/LeetCodeExercises/Problem1.tasty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/LeetCodeExercises/Problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/LeetCodeExercises/Problem2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/LeetCodeExercises/Problem2.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/LeetCodeExercises/Problem2.tasty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/LeetCodeExercises/TwoSums$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/LeetCodeExercises/TwoSums$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/LeetCodeExercises/TwoSums.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/LeetCodeExercises/TwoSums.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/LeetCodeExercises/TwoSums.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/LeetCodeExercises/TwoSums.tasty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeExercises/Problem1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeExercises/Problem1.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeExercises/Problem2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeExercises/Problem2.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeExercises/TwoSums.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeExercises/TwoSums.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Person.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Person.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/SingletonObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/SingletonObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/SingletonObject.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/SingletonObject.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Test.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Test.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/TestInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/TestInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/TestInfo.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/TestInfo.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions$$anon$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions$$anon$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions$$anon$2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +76,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PatterMatchingPartOne">
-    <configuration name="PatterMatchingPartOne" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="PartFour.PatterMatchingPartOne" />
+  <component name="RunManager" selected="Application.Monads">
+    <configuration name="CurriedPartialAppliedFunction" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.ScalaAdvancedCourse.PartTwo.CurriedPartialAppliedFunction" />
       <module name="Rock-The-Jvm-Scala-Beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PartFour.*" />
+          <option name="PATTERN" value="Lectures.ScalaAdvancedCourse.PartTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlusOne" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeExercises.PlusOne" />
+    <configuration name="CurriedPartialAppliedFunctionExercises" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesAndProblemSolving.AdvancedCourseExercises.PartTwo.CurriedPartialAppliedFunctionExercises" />
       <module name="Rock-The-Jvm-Scala-Beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCodeExercises.*" />
+          <option name="PATTERN" value="ExercisesAndProblemSolving.AdvancedCourseExercises.PartTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeExercises.Problem1" />
+    <configuration name="LazyEvaluation" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.ScalaAdvancedCourse.PartTwo.LazyEvaluation" />
       <module name="Rock-The-Jvm-Scala-Beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCodeExercises.*" />
+          <option name="PATTERN" value="Lectures.ScalaAdvancedCourse.PartTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeExercises.Problem2" />
+    <configuration name="Monads" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.ScalaAdvancedCourse.PartTwo.Monads" />
       <module name="Rock-The-Jvm-Scala-Beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCodeExercises.*" />
+          <option name="PATTERN" value="Lectures.ScalaAdvancedCourse.PartTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSums" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeExercises.TwoSums" />
+    <configuration name="MyStreamDeprecatedExercise" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesAndProblemSolving.AdvancedCourseExercises.PartTwo.MyStreamDeprecatedExercise" />
       <module name="Rock-The-Jvm-Scala-Beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCodeExercises.*" />
+          <option name="PATTERN" value="ExercisesAndProblemSolving.AdvancedCourseExercises.PartTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PatterMatchingPartOne" />
-        <item itemvalue="Application.PlusOne" />
-        <item itemvalue="Application.TwoSums" />
-        <item itemvalue="Application.Problem2" />
-        <item itemvalue="Application.Problem1" />
+        <item itemvalue="Application.Monads" />
+        <item itemvalue="Application.MyStreamDeprecatedExercise" />
+        <item itemvalue="Application.LazyEvaluation" />
+        <item itemvalue="Application.CurriedPartialAppliedFunctionExercises" />
+        <item itemvalue="Application.CurriedPartialAppliedFunction" />
       </list>
     </recent_temporary>
   </component>
