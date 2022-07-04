@@ -5,30 +5,344 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e06186fd-b52a-42a5-a653-eac98a72508b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/AdvancedCourseExercises/PartOne/PatternMatchingPartOneExercises.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/CurriedPartialAppliedFunctionExercises.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MySetExercise.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MyStreamDeprecatedExercise.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/PartialFunctionsExercises.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartOne/AdvancedPatternMatchingPartOne.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartOne/DarkSugar.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartOne/Recap.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartTwo/CurriedPartialAppliedFunction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartTwo/LazyEvaluation.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartTwo/Monads.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartTwo/MySet.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartTwo/PartialFunctions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/scala_sdk_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExercisesAndProblemSolving/AdvancedCourseExercises/PartThree/ConcurrencyProblemsExercises.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExercisesAndProblemSolving/AdvancedCourseExercises/PartThree/FuturePromisesExerciseTwo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExercisesAndProblemSolving/AdvancedCourseExercises/PartThree/FuturesPromisesExercise.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lectures/ScalaAdvancedCourse/PartThree/ConcurrencyIntro.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lectures/ScalaAdvancedCourse/PartThree/ConcurrencyProblems.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lectures/ScalaAdvancedCourse/PartThree/FutureAndPromisesPArtTwo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lectures/ScalaAdvancedCourse/PartThree/FuturesAndPromises.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lectures/ScalaAdvancedCourse/PartThree/ParallelUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lectures/ScalaAdvancedCourse/PartThree/ThreadCommunication.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Person.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Person.tasty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/SingletonObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/SingletonObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/SingletonObject.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/SingletonObject.tasty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Test.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Test.tasty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/TestInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/TestInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/TestInfo.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/TestInfo.tasty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions$$anon$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions$$anon$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions$$anon$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rock-The-Jvm-Scala-Beginner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Rock-The-Jvm-Scala-Beginner.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartOne/PatternMatchingPartOneExercises$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartOne/PatternMatchingPartOneExercises$evenNumbers$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartOne/PatternMatchingPartOneExercises$singleDigits$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartOne/PatternMatchingPartOneExercises.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartOne/PatternMatchingPartOneExercises.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/CurriedPartialAppliedFunctionExercises$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/CurriedPartialAppliedFunctionExercises.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/CurriedPartialAppliedFunctionExercises.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/EmptySet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/EmptySet.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MySetExercise$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MySetExercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MySetExercise.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MyStreamDeprecatedExercise$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MyStreamDeprecatedExercise$Cons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MyStreamDeprecatedExercise$EmptyStream$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MyStreamDeprecatedExercise$MyStream$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MyStreamDeprecatedExercise$MyStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MyStreamDeprecatedExercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MyStreamDeprecatedExercise.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/NonEmptySet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/NonEmptySet.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/PartialFunctionsExercises$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/PartialFunctionsExercises$$anon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/PartialFunctionsExercises$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/PartialFunctionsExercises.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/PartialFunctionsExercises.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/PropertyBasedSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/PropertyBasedSet.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/setTest$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/setTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/setTest.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/LeetCodeExercises/PlusOne$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/LeetCodeExercises/PlusOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/LeetCodeExercises/PlusOne.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/LeetCodeExercises/Problem1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/LeetCodeExercises/Problem1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/LeetCodeExercises/Problem1.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/LeetCodeExercises/Problem2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/LeetCodeExercises/Problem2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/LeetCodeExercises/Problem2.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/LeetCodeExercises/TwoSums$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/LeetCodeExercises/TwoSums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/ExercisesAndProblemSolving/LeetCodeExercises/TwoSums.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/Part3/ConcurrencyIntro$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/Part3/ConcurrencyIntro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/Part3/ConcurrencyIntro.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/AdvancedPatternMatchingPartOne$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/AdvancedPatternMatchingPartOne$Cons$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/AdvancedPatternMatchingPartOne$Cons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/AdvancedPatternMatchingPartOne$Empty$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/AdvancedPatternMatchingPartOne$MyList$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/AdvancedPatternMatchingPartOne$MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/AdvancedPatternMatchingPartOne$or$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/AdvancedPatternMatchingPartOne$or.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/AdvancedPatternMatchingPartOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/AdvancedPatternMatchingPartOne.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/DarkSugar$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/DarkSugar$$anon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/DarkSugar$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/DarkSugar$Action.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/DarkSugar$AnAbstractType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/DarkSugar$Mutable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/DarkSugar$TeenGirl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/DarkSugar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/DarkSugar.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/Recap$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/Recap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartOne/Recap.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/CurriedPartialAppliedFunction$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/CurriedPartialAppliedFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/CurriedPartialAppliedFunction.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/Fail$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/Fail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/Fail.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/LazyEvaluation$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/LazyEvaluation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/LazyEvaluation.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/Monads$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/Monads$Lazy$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/Monads$Lazy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/Monads.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/Monads.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/MyAttempt$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/MyAttempt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/MyAttempt.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/MySet$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/MySet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/MySet.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/PartialFunctions$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/PartialFunctions$$anon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/PartialFunctions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/PartialFunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/PartialFunctions.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/Success$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/Success.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/Lectures/ScalaAdvancedCourse/PartTwo/Success.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Person.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/SingletonObject$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/SingletonObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/SingletonObject.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Test$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/Test.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/TestInfo$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/TestInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/ArticleOne/TestInfo.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne$Dog$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne$Expr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne$Number$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne$Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne$Parrot$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne$Parrot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne$Person$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne$Prod$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne$Prod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne$Sum$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne$Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatternMatchingPartThree$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatternMatchingPartThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatternMatchingPartThree.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatternMatchingPartTwo$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatternMatchingPartTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartFour/PatternMatchingPartTwo.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartOne/CBVandCBN$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartOne/CBVandCBN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartOne/CBVandCBN.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartOne/DefaultArgs$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartOne/DefaultArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartOne/DefaultArgs.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartOne/RecursionExample$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartOne/RecursionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartOne/RecursionExample.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartOne/StringOps$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartOne/StringOps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartOne/StringOps.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartOne/package$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartOne/package.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartOne/package.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/AnonymousFunctions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/AnonymousFunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/AnonymousFunctions.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/HandlingFailures$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/HandlingFailures$Connection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/HandlingFailures$HttpService$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/HandlingFailures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/HandlingFailures.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/HigherOrderFunctionCurries$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/HigherOrderFunctionCurries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/HigherOrderFunctionCurries.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/MapFlatmapFilterFor$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/MapFlatmapFilterFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/MapFlatmapFilterFor.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/Maybe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/Maybe.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/MaybeNot$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/MaybeNot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/MaybeNot.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/Options$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/Options$Connection$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/Options$Connection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/Options.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/Options.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/Sequences$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/Sequences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/Sequences.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/TuplesAndMaps$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/TuplesAndMaps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/TuplesAndMaps.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions$$anon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions$$anon$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions$Action.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/main$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/main.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/maySomething$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/maySomething.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartThree/maySomething.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/AbstractionDataType$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/AbstractionDataType$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/AbstractionDataType$Carnivore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/AbstractionDataType$Crocodile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/AbstractionDataType$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/AbstractionDataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/AbstractionDataType.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/AnonymousClass$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/AnonymousClass$$anon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/AnonymousClass$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/AnonymousClass$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/AnonymousClass$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/AnonymousClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/AnonymousClass.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/CaseClasses$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/CaseClasses$Person$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/CaseClasses$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/CaseClasses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/CaseClasses.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Cons$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Cons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Cons.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Counter$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Counter.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/CustomList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/CustomList.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Empty$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Empty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Empty.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Exceptions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Exceptions$ObjectCalculator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Exceptions$ObjectCalculator$3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Exceptions$OverFlowException$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Exceptions$UnderFlowException$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Exceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Exceptions.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Generics$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Generics$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Generics$Cage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Generics$Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Generics$Cats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Generics$Contravariance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Generics$CovarianceList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Generics$Dogs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Generics$InvariantList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Generics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Generics.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Inheritance$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Inheritance$Adult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Inheritance$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Inheritance$Cats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Inheritance$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Inheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Inheritance.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/LazyListWithUglyNumberExample$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/LazyListWithUglyNumberExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/LazyListWithUglyNumberExample.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/ListTest$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/ListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/ListTest.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/MethodNotations$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/MethodNotations$Movies$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/MethodNotations$Movies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/MethodNotations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/MethodNotations.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Novel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Novel.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/OOPBasics$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/OOPBasics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/OOPBasics.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Objects$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Objects$Person$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Objects$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Objects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Objects.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/PackagingAndImports$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/PackagingAndImports.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/PackagingAndImports.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Person.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rock-The-Jvm-Scala-Beginner/lectures/ScalaBeginnerCourse/PartTwo/Writer.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/AdvancedCourseExercises/PartOne/PatternMatchingPartOneExercises.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExercisesAndProblemSolving/AdvancedCourseExercises/PartOne/PatternMatchingPartOneExercises.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/CurriedPartialAppliedFunctionExercises.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/CurriedPartialAppliedFunctionExercises.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MySetExercise.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MySetExercise.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MyStreamDeprecatedExercise.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/MyStreamDeprecatedExercise.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/PartialFunctionsExercises.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExercisesAndProblemSolving/AdvancedCourseExercises/PartTwo/PartialFunctionsExercises.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/LeetCodeExercises/PlusOne.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExercisesAndProblemSolving/LeetCodeExercises/PlusOne.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/LeetCodeExercises/Problem1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExercisesAndProblemSolving/LeetCodeExercises/Problem1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/LeetCodeExercises/Problem2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExercisesAndProblemSolving/LeetCodeExercises/Problem2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercisesAndProblemSolving/LeetCodeExercises/TwoSums.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExercisesAndProblemSolving/LeetCodeExercises/TwoSums.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/Part3/ConcurrencyIntro.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartOne/AdvancedPatternMatchingPartOne.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lectures/ScalaAdvancedCourse/PartOne/AdvancedPatternMatchingPartOne.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartOne/DarkSugar.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lectures/ScalaAdvancedCourse/PartOne/DarkSugar.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartOne/Recap.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lectures/ScalaAdvancedCourse/PartOne/Recap.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartTwo/CurriedPartialAppliedFunction.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lectures/ScalaAdvancedCourse/PartTwo/CurriedPartialAppliedFunction.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartTwo/LazyEvaluation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lectures/ScalaAdvancedCourse/PartTwo/LazyEvaluation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartTwo/Monads.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lectures/ScalaAdvancedCourse/PartTwo/Monads.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartTwo/MySet.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lectures/ScalaAdvancedCourse/PartTwo/MySet.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/ScalaAdvancedCourse/PartTwo/PartialFunctions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lectures/ScalaAdvancedCourse/PartTwo/PartialFunctions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartFour/PatterMatchingPartOne.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartFour/PatternMatchingPartThree.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartFour/PatternMatchingPartThree.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartFour/PatternMatchingPartTwo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartFour/PatternMatchingPartTwo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartOne/CBVandCBN.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartOne/CBVandCBN.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartOne/DefaultArgs.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartOne/DefaultArgs.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartOne/RecursionExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartOne/RecursionExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartOne/StringOps.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartOne/StringOps.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartOne/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartOne/package.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartOne0/1/Person.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartOne0/1/Person.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartOne0/1/SingletonObject.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartOne0/1/SingletonObject.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartThree/AnonymousFunctions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartThree/AnonymousFunctions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartThree/HandlingFailures.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartThree/HandlingFailures.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartThree/HigherOrderFunctionCurries.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartThree/HigherOrderFunctionCurries.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartThree/MapFlatmapFilterFor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartThree/MapFlatmapFilterFor.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartThree/Maybe.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartThree/Maybe.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartThree/Options.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartThree/Options.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartThree/Sequences.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartThree/Sequences.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartThree/TuplesAndMaps.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartThree/TuplesAndMaps.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartThree/WhatIsFunctions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartTwo/AbstractionDataType.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartTwo/AbstractionDataType.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartTwo/AnonymousClass.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartTwo/AnonymousClass.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartTwo/CaseClasses.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartTwo/CaseClasses.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartTwo/CustomList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartTwo/CustomList.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartTwo/Exceptions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartTwo/Exceptions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartTwo/Generics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartTwo/Generics.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartTwo/Inheritance.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartTwo/Inheritance.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartTwo/LazyListWithUglyNumberExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartTwo/LazyListWithUglyNumberExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartTwo/MethodNotations.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartTwo/MethodNotations.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartTwo/OOPBasics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartTwo/OOPBasics.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartTwo/Objects.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartTwo/Objects.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/ScalaBeginnerCourse/PartTwo/PackagingAndImports.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectures/ScalaBeginnerCourse/PartTwo/PackagingAndImports.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +356,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Package Object" />
+        <option value="Scala Object" />
       </list>
     </option>
   </component>
@@ -67,22 +382,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;scala_project_settings_configurable.last_selected_tab_index&quot;: &quot;6&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "scala_project_settings_configurable.last_selected_tab_index": "6",
+    "settings.editor.selected.configurable": "com.mle.idea.sbtexecutor.settings.ExecuteSbtConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Application.Monads">
-    <configuration name="CurriedPartialAppliedFunction" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.ScalaAdvancedCourse.PartTwo.CurriedPartialAppliedFunction" />
+}]]></component>
+  <component name="RunManager" selected="Application.FutureAndPromisesPArtTwo">
+    <configuration name="ExercisesAndProblemSolving.AdvancedCourseExercises.PartThree.FuturePromisesExerciseTwo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesAndProblemSolving.AdvancedCourseExercises.PartThree.FuturePromisesExerciseTwo" />
       <module name="Rock-The-Jvm-Scala-Beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lectures.ScalaAdvancedCourse.PartTwo.*" />
+          <option name="PATTERN" value="Lectures.ScalaAdvancedCourse.PartThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +408,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CurriedPartialAppliedFunctionExercises" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesAndProblemSolving.AdvancedCourseExercises.PartTwo.CurriedPartialAppliedFunctionExercises" />
+    <configuration name="FutureAndPromisesPArtTwo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.ScalaAdvancedCourse.PartThree.FutureAndPromisesPArtTwo" />
       <module name="Rock-The-Jvm-Scala-Beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExercisesAndProblemSolving.AdvancedCourseExercises.PartTwo.*" />
+          <option name="PATTERN" value="Lectures.ScalaAdvancedCourse.PartThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +421,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LazyEvaluation" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.ScalaAdvancedCourse.PartTwo.LazyEvaluation" />
+    <configuration name="FuturePromisesExerciseTwo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="FuturePromisesExerciseTwo" />
+      <module name="Rock-The-Jvm-Scala-Beginner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuturesPromisesExercise" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesAndProblemSolving.AdvancedCourseExercises.PartThree.FuturesPromisesExercise" />
       <module name="Rock-The-Jvm-Scala-Beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lectures.ScalaAdvancedCourse.PartTwo.*" />
+          <option name="PATTERN" value="Lectures.ScalaAdvancedCourse.PartThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,25 +441,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Monads" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.ScalaAdvancedCourse.PartTwo.Monads" />
+    <configuration name="ParallelUtil" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesAndProblemSolving.AdvancedCourseExercises.PartThree.ParallelUtil" />
       <module name="Rock-The-Jvm-Scala-Beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lectures.ScalaAdvancedCourse.PartTwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyStreamDeprecatedExercise" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesAndProblemSolving.AdvancedCourseExercises.PartTwo.MyStreamDeprecatedExercise" />
-      <module name="Rock-The-Jvm-Scala-Beginner" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExercisesAndProblemSolving.AdvancedCourseExercises.PartTwo.*" />
+          <option name="PATTERN" value="Lectures.ScalaAdvancedCourse.PartThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +456,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Monads" />
-        <item itemvalue="Application.MyStreamDeprecatedExercise" />
-        <item itemvalue="Application.LazyEvaluation" />
-        <item itemvalue="Application.CurriedPartialAppliedFunctionExercises" />
-        <item itemvalue="Application.CurriedPartialAppliedFunction" />
+        <item itemvalue="Application.FutureAndPromisesPArtTwo" />
+        <item itemvalue="Application.ParallelUtil" />
+        <item itemvalue="Application.ExercisesAndProblemSolving.AdvancedCourseExercises.PartThree.FuturePromisesExerciseTwo" />
+        <item itemvalue="Application.FuturePromisesExerciseTwo" />
+        <item itemvalue="Application.FuturesPromisesExercise" />
       </list>
     </recent_temporary>
   </component>
